@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+char str[100];
+printf("enter a string :\n");
+scanf("%s"'str);
+printf("length=%24\m",strlen(str));
+return 0;
+}
